@@ -9,4 +9,7 @@ adds premade folders that make your life easier.
 
 Feel free to delete the temp file in each folder.
 
+A document will be released soon with examples of how to
+use the methods and whats all avaible to use.
+
 <----------------------------------------------------------------------------------------------------------------------------------------->
